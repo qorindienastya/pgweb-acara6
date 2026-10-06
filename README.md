@@ -1,3 +1,3 @@
-# pgweb-acara5
+# pgweb-acara6
 
-[https://qorindienastya.github.io/pgweb_acara6/](https://qorindienastya.github.io/pgweb_acara6/)
+[https://qorindienastya.github.io/pgweb-acara6/](https://qorindienastya.github.io/pgweb-acara6/)
